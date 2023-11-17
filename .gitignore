@@ -14,6 +14,7 @@ pids
 # Directory used by tools like babel-loader to cache performance optimizations
 node_modules
 /dist
+.http
 
 # Build directory
 /build
